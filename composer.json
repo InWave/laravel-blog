@@ -1,14 +1,14 @@
 {
-    "name": "didcode/laravel-blog",
-    "description": "Provides blog capabilities to your Laravel 5 installation. /!\\ Early pre-stable version",
+    "name": "inwave/laravel-blog",
+    "description": "Provides blog capabilities to your Laravel 5 installation. /!\\ Better early pre-stable version",
     "keywords": ["laravel","blog"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Didier Sampaolo",
-            "email": "didier@didcode.com",
-            "homepage": "http://didcode.com/",
-            "role": "CEO/Developer"
+            "name": "Kevin Overtoom",
+            "email": "kevin@inwave.nl",
+            "homepage": "http://inwave.nl/",
+            "role": "CEO"
         }
     ],
     "minimum-stability": "dev",
