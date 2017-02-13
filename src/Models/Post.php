@@ -1,4 +1,4 @@
-<?php namespace didcode\Blog\Models;
+<?php namespace inwave\Blog\Models;
 
 use \Illuminate\Database\Eloquent\Model as Eloquent;
 
