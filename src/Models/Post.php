@@ -23,7 +23,7 @@ class Post extends Eloquent {
     }
 
     function Category() {
-        return $this->hasOne('didcode\Blog\Models\Category', 'id', 'category_id');
+        return $this->hasOne('inwave\Blog\Models\Category', 'id', 'category_id');
     }
 
     function getImageAttribute($value) {
