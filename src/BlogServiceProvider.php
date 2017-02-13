@@ -28,8 +28,8 @@ class BlogServiceProvider extends ServiceProvider {
 	public function register()
 	{
         include __DIR__.'/routes.php';
-        $this->app->make('didcode\Blog\BlogController');
-        $this->app->make('didcode\Blog\AdminController');
+        $this->app->make('inwave\Blog\BlogController');
+        $this->app->make('inwave\Blog\AdminController');
 	}
 
 }
