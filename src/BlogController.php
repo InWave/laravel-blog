@@ -1,9 +1,9 @@
 <?php namespace inwave\Blog;
 
 use App\Http\Controllers\Controller;
-use didcode\Blog\Models\Category;
-use didcode\Blog\Models\Option;
-use didcode\Blog\Models\Post;
+use inwave\Blog\Models\Category;
+use inwave\Blog\Models\Option;
+use inwave\Blog\Models\Post;
 
 class BlogController extends Controller {
 
