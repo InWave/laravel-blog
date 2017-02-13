@@ -1,4 +1,4 @@
-<?php namespace didcode\Blog;
+<?php namespace inwave\Blog;
 
 use App\Http\Controllers\Controller;
 use didcode\Blog\Models\Post;
